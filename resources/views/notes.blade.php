@@ -36,6 +36,10 @@
                 </form>
             </div>
         @endforeach
+
+        <footer style="margin-top: 20px; text-align: center; font-size: 12px; color: #777;">
+            <p>&copy; 2026 Aplikasi Catatan - Tugas Evolusi PL</p>
+        </footer>
     </div>
 </body>
 </html>
